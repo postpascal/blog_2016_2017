@@ -1,0 +1,3 @@
+topojson -o uk12.json --id-property NAME_2 UK.json IRL_IMN.json
+mv uk12.json ../
+echo "Done"

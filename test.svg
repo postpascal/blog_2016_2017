@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1">
+	<path d="M200 110
+	A 45 45, 0, 0, 0, 200 290
+	" stroke="black" stroke-width="3" fill="black"/>
+	<path d="M200 110
+	A 45 45, 0, 1, 1, 200 290
+	" stroke="black" stroke-width="3" fill="white"/>
+	<path d="M200 110
+	A 45 45, 0, 0, 0, 200 200
+	" stroke="black" stroke-width="3" fill="white"/>
+	<path d="M200 200
+	A 45 45, 0, 1, 1, 200 290
+	" stroke="black" stroke-width="3" fill="black"/>
+	<circle cx="200" cy="155" r="15" stroke="black" stroke-width="3" fill="black" />
+	<circle cx="200" cy="245" r="15" stroke="black" stroke-width="3" fill="white" />
+</svg>
